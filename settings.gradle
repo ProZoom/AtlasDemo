@@ -1,0 +1,11 @@
+/*宿主*/
+include ':app'
+/*插件*/
+include ':bundleSplashScreen'
+include ':bundleFirst'
+include ':bundleSecond'
+/*第三方库*/
+
+//Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用json文件的方式快速实现动画效果的库。
+include ':lottie'
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtlasDemo.iml" filepath="$PROJECT_DIR$/AtlasDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundleFirst/bundleFirst.iml" filepath="$PROJECT_DIR$/bundleFirst/bundleFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundleSecond/bundleSecond.iml" filepath="$PROJECT_DIR$/bundleSecond/bundleSecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundleSplashScreen/bundleSplashScreen.iml" filepath="$PROJECT_DIR$/bundleSplashScreen/bundleSplashScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottie/lottie.iml" filepath="$PROJECT_DIR$/lottie/lottie.iml" />
+    </modules>
+  </component>
+</project>
